@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm IlhamGhaza</h1>
+<h1 align="center">Hi 👋, I'm M. Ilham Ghazali</h1>
 <h3 align="center">Mobile and Game Develompent</h3>
 
-<p align="left"> <a href="https://twitter.com/lhmmobilegame" target="blank"><img src="https://img.shields.io/twitter/follow/lhmmobilegame?logo=twitter&style=for-the-badge" alt="lhmmobilegame" /></a> </p>
+<p align="left"> <a href="https://twitter.com/milham_Ghazali" target="blank"><img src="https://img.shields.io/twitter/follow/milham_Ghazali?logo=twitter&style=for-the-badge" alt="lhmmobilegame" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
