@@ -11,6 +11,8 @@
 <a href="https://discordapp.com/users/479529379358310400" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.app/ilham_gz" height="30" width="40" /></a>
 </p>
 
+hello i'm Muhammad Ilham Ghazali (Male), i'm an **Multi Platfrom Developer** 📱 currently living in 🇮🇩 Indonesia, [Portfolio](https://ilhamghaza.github.io/)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
