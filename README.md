@@ -34,7 +34,7 @@ hello i'm Muhammad Ilham Ghazali (Male), i'm an **Multi Platfrom & Game Develope
 
 ### My github stats
 <!---(This is also a comment.)
-<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=ilhamghaza&count_private=true&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />  -->
+<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=ilhamghaza&count_private=true&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhamghaza&show_icons=true&locale=en&layout=compact" alt="ilhamghaza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamghaza&" alt="ilhamghaza" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamghaza&" alt="ilhamghaza" /></p>-->
