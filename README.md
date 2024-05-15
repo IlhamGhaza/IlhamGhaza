@@ -32,8 +32,9 @@ hello i'm Muhammad Ilham Ghazali (Male), i'm an **Multi Platfrom & Game Develope
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" /> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>-->
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
+<!---
 ### My github stats
-<!--- 
+ 
 (This is also a comment.)
 <p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=ilhamghaza&count_private=true&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhamghaza&show_icons=true&locale=en&layout=compact" alt="ilhamghaza" /></p>
