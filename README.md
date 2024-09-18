@@ -72,11 +72,14 @@ I'm a passionate software developer specializing in **mobile development** and *
 </p>
 
 ---
+<!---
+
 
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </p>
+-->
 
 ---
 
